@@ -89,3 +89,6 @@ console.log(`Reversed String: ${reversedString}`);
 // let slicedDays: string[] = days.slice(1, 4); // 
 // console.log(slicedDays); 
 console.log("Done");
+
+console.log("Rana Saab");
+
