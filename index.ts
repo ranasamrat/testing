@@ -88,3 +88,4 @@ console.log(`Reversed String: ${reversedString}`);
 // let days: string[] = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
 // let slicedDays: string[] = days.slice(1, 4); // 
 // console.log(slicedDays); 
+console.log("Done");
