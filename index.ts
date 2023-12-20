@@ -99,12 +99,10 @@ let checkOut = async (totalbill: number) => {
   for (let i = 0; i < paymentOPts.length; i++) {
     if (check.checkout === paymentOPts[i]) {
       console.log(
-        chalk.strikethrough(
-          chalk.red(
+        chalk.red(
             `Your payment of ${totalbill} is processed using ${check.checkout}`
           )
-        )
-      );
+        );
     }
   }
 };
